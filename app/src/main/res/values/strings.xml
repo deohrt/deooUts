@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">deoUTS</string>
+
+    <string-array name="jalur_pendaftaran">
+        <item> tes tertulis</item>
+        <item> jalur tanpa tes</item>
+        <item> ujian tes</item>
+    </string-array>
+</resources>
